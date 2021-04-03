@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel-planet/static/css/main.a5fc0864.chunk.css",
+    "main.js": "/travel-planet/static/js/main.531bf065.chunk.js",
+    "main.js.map": "/travel-planet/static/js/main.531bf065.chunk.js.map",
+    "runtime-main.js": "/travel-planet/static/js/runtime-main.925bde79.js",
+    "runtime-main.js.map": "/travel-planet/static/js/runtime-main.925bde79.js.map",
+    "static/js/2.1d11b426.chunk.js": "/travel-planet/static/js/2.1d11b426.chunk.js",
+    "static/js/2.1d11b426.chunk.js.map": "/travel-planet/static/js/2.1d11b426.chunk.js.map",
+    "index.html": "/travel-planet/index.html",
+    "static/css/main.a5fc0864.chunk.css.map": "/travel-planet/static/css/main.a5fc0864.chunk.css.map",
+    "static/js/2.1d11b426.chunk.js.LICENSE.txt": "/travel-planet/static/js/2.1d11b426.chunk.js.LICENSE.txt",
+    "static/media/colliseum.eb93580c.jpg": "/travel-planet/static/media/colliseum.eb93580c.jpg",
+    "static/media/italy.570a59ce.341": "/travel-planet/static/media/italy.570a59ce.341",
+    "static/media/samui.23eb75f6.jpeg": "/travel-planet/static/media/samui.23eb75f6.jpeg",
+    "static/media/thai.8a91bbd6.jpg": "/travel-planet/static/media/thai.8a91bbd6.jpg",
+    "static/media/thaiImage.bdd4c26b.jpg": "/travel-planet/static/media/thaiImage.bdd4c26b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.925bde79.js",
+    "static/js/2.1d11b426.chunk.js",
+    "static/css/main.a5fc0864.chunk.css",
+    "static/js/main.531bf065.chunk.js"
+  ]
+}
