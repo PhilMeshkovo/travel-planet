@@ -1,12 +1,22 @@
 export function Card(props) {
-    return <div className="card">
-    <div className="card-image">
-      <img src="images/sample-1.jpg" alt='text'/>
-      <span className="card-title">Card Title</span>
-      <a className="btn-floating halfway-fab waves-effect waves-light red" ><i className="material-icons">add</i></a>
+
+    const {
+      title,
+      image,
+      text,
+      desc,
+      setDescription = Function.prototype
+    } = props;
+    return <div className="card" onClick={() => setDescription(desc)}>
+    <div className="card-image" >
+      <img src={image} alt='text' />
+      <span className="card-title "><strong>{title}</strong></span>
     </div>
     <div className="card-content">
-      <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+      <p>{text}</p>
     </div>
+    {/* <div className="card-action">
+      <a href="!#">This is a link</a>
+    </div> */}
   </div>
 }
