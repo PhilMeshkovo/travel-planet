@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/travel-planet/static/css/main.a5fc0864.chunk.css",
-    "main.js": "/travel-planet/static/js/main.531bf065.chunk.js",
-    "main.js.map": "/travel-planet/static/js/main.531bf065.chunk.js.map",
+    "main.js": "/travel-planet/static/js/main.5f64adee.chunk.js",
+    "main.js.map": "/travel-planet/static/js/main.5f64adee.chunk.js.map",
     "runtime-main.js": "/travel-planet/static/js/runtime-main.925bde79.js",
     "runtime-main.js.map": "/travel-planet/static/js/runtime-main.925bde79.js.map",
     "static/js/2.1d11b426.chunk.js": "/travel-planet/static/js/2.1d11b426.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.925bde79.js",
     "static/js/2.1d11b426.chunk.js",
     "static/css/main.a5fc0864.chunk.css",
-    "static/js/main.531bf065.chunk.js"
+    "static/js/main.5f64adee.chunk.js"
   ]
 }
