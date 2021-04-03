@@ -11,7 +11,7 @@ export function ThaiDesc(props) {
          Франции или Великобритании. «Таиланд» (Thailand) —<img src={Samui} alt='Thai' width="300" height="200" align='right'/>  англоязычный вариант названия страны, введённый в обиход в 1939 году, — означает «страна тайцев»
          , тайский вариант звучит как Пратхет Тхай или Мыанг-Тхай. 
          Название страны стало эпонимом для таких названий, как Тайская кошка, Сиамская кошка, Сиамские близнецы, Тайский бокс и Тайский массаж.</p>
-<button className="btn waves-effect waves-light buttons-main" onClick={() => setDescription('main')}>На главную страницу</button>
+<button className="btn waves-effect light-blue darken-1 buttons-main" onClick={() => setDescription('main')}>На главную страницу</button>
     </div>
     
 }
