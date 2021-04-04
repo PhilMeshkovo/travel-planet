@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/travel-planet/static/css/main.9e761d68.chunk.css",
-    "main.js": "/travel-planet/static/js/main.131b79d7.chunk.js",
-    "main.js.map": "/travel-planet/static/js/main.131b79d7.chunk.js.map",
+    "main.js": "/travel-planet/static/js/main.dca95e38.chunk.js",
+    "main.js.map": "/travel-planet/static/js/main.dca95e38.chunk.js.map",
     "runtime-main.js": "/travel-planet/static/js/runtime-main.925bde79.js",
     "runtime-main.js.map": "/travel-planet/static/js/runtime-main.925bde79.js.map",
     "static/js/2.de8fb98d.chunk.js": "/travel-planet/static/js/2.de8fb98d.chunk.js",
@@ -10,16 +10,19 @@
     "index.html": "/travel-planet/index.html",
     "static/css/main.9e761d68.chunk.css.map": "/travel-planet/static/css/main.9e761d68.chunk.css.map",
     "static/js/2.de8fb98d.chunk.js.LICENSE.txt": "/travel-planet/static/js/2.de8fb98d.chunk.js.LICENSE.txt",
-    "static/media/colliseum.eb93580c.jpg": "/travel-planet/static/media/colliseum.eb93580c.jpg",
+    "static/media/colliseum.e601dbfc.jpg": "/travel-planet/static/media/colliseum.e601dbfc.jpg",
+    "static/media/dominicanaCard.2cb4c99a.jpg": "/travel-planet/static/media/dominicanaCard.2cb4c99a.jpg",
+    "static/media/ferrari.5d239660.jpg": "/travel-planet/static/media/ferrari.5d239660.jpg",
+    "static/media/flamingoDomin.945bc7c9.jpg": "/travel-planet/static/media/flamingoDomin.945bc7c9.jpg",
     "static/media/italy.570a59ce.341": "/travel-planet/static/media/italy.570a59ce.341",
-    "static/media/samui.23eb75f6.jpeg": "/travel-planet/static/media/samui.23eb75f6.jpeg",
-    "static/media/thai.8a91bbd6.jpg": "/travel-planet/static/media/thai.8a91bbd6.jpg",
-    "static/media/thaiImage.bdd4c26b.jpg": "/travel-planet/static/media/thaiImage.bdd4c26b.jpg"
+    "static/media/samui.7572cbd1.jpeg": "/travel-planet/static/media/samui.7572cbd1.jpeg",
+    "static/media/thai.47429546.jpg": "/travel-planet/static/media/thai.47429546.jpg",
+    "static/media/thaiImage.64202f16.jpg": "/travel-planet/static/media/thaiImage.64202f16.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.925bde79.js",
     "static/js/2.de8fb98d.chunk.js",
     "static/css/main.9e761d68.chunk.css",
-    "static/js/main.131b79d7.chunk.js"
+    "static/js/main.dca95e38.chunk.js"
   ]
 }
