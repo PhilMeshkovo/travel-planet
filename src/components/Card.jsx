@@ -7,16 +7,18 @@ export function Card(props) {
       desc,
       setDescription = Function.prototype
     } = props;
-    return <div className="card" onClick={() => setDescription(desc)}>
+    return <div className="card" >
     <div className="card-image" >
       <img src={image} alt='text' />
       <span className="card-title "><strong>{title}</strong></span>
     </div>
     <div className="card-content">
       <p>{text}</p>
+      {/* <i className="material-icons right">more_vert</i> */}
+    {/* </div>
+    <div className="card-action">
+     */}
+      <button className='btn waves-effect light-blue darken-5 right' onClick={() => setDescription(desc)}>Подробнее</button>
     </div>
-    {/* <div className="card-action">
-      <a href="!#">This is a link</a>
-    </div> */}
   </div>
 }
