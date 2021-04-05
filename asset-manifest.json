@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/travel-planet/static/css/main.02aed492.chunk.css",
-    "main.js": "/travel-planet/static/js/main.246432aa.chunk.js",
-    "main.js.map": "/travel-planet/static/js/main.246432aa.chunk.js.map",
+    "main.js": "/travel-planet/static/js/main.3688d325.chunk.js",
+    "main.js.map": "/travel-planet/static/js/main.3688d325.chunk.js.map",
     "runtime-main.js": "/travel-planet/static/js/runtime-main.925bde79.js",
     "runtime-main.js.map": "/travel-planet/static/js/runtime-main.925bde79.js.map",
     "static/js/2.de8fb98d.chunk.js": "/travel-planet/static/js/2.de8fb98d.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.02aed492.chunk.css.map": "/travel-planet/static/css/main.02aed492.chunk.css.map",
     "static/js/2.de8fb98d.chunk.js.LICENSE.txt": "/travel-planet/static/js/2.de8fb98d.chunk.js.LICENSE.txt",
     "static/media/colliseum.e601dbfc.jpg": "/travel-planet/static/media/colliseum.e601dbfc.jpg",
+    "static/media/dominicanaBeach.bb632116.jpg": "/travel-planet/static/media/dominicanaBeach.bb632116.jpg",
     "static/media/dominicanaCard.2cb4c99a.jpg": "/travel-planet/static/media/dominicanaCard.2cb4c99a.jpg",
     "static/media/ferrari.5d239660.jpg": "/travel-planet/static/media/ferrari.5d239660.jpg",
     "static/media/flamingoDomin.945bc7c9.jpg": "/travel-planet/static/media/flamingoDomin.945bc7c9.jpg",
@@ -23,6 +24,6 @@
     "static/js/runtime-main.925bde79.js",
     "static/js/2.de8fb98d.chunk.js",
     "static/css/main.02aed492.chunk.css",
-    "static/js/main.246432aa.chunk.js"
+    "static/js/main.3688d325.chunk.js"
   ]
 }
