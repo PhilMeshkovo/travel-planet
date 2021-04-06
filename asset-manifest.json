@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/travel-planet/static/css/main.02aed492.chunk.css",
-    "main.js": "/travel-planet/static/js/main.3688d325.chunk.js",
-    "main.js.map": "/travel-planet/static/js/main.3688d325.chunk.js.map",
+    "main.js": "/travel-planet/static/js/main.53f4180e.chunk.js",
+    "main.js.map": "/travel-planet/static/js/main.53f4180e.chunk.js.map",
     "runtime-main.js": "/travel-planet/static/js/runtime-main.925bde79.js",
     "runtime-main.js.map": "/travel-planet/static/js/runtime-main.925bde79.js.map",
-    "static/js/2.de8fb98d.chunk.js": "/travel-planet/static/js/2.de8fb98d.chunk.js",
-    "static/js/2.de8fb98d.chunk.js.map": "/travel-planet/static/js/2.de8fb98d.chunk.js.map",
+    "static/js/2.86e62b69.chunk.js": "/travel-planet/static/js/2.86e62b69.chunk.js",
+    "static/js/2.86e62b69.chunk.js.map": "/travel-planet/static/js/2.86e62b69.chunk.js.map",
     "index.html": "/travel-planet/index.html",
     "static/css/main.02aed492.chunk.css.map": "/travel-planet/static/css/main.02aed492.chunk.css.map",
-    "static/js/2.de8fb98d.chunk.js.LICENSE.txt": "/travel-planet/static/js/2.de8fb98d.chunk.js.LICENSE.txt",
+    "static/js/2.86e62b69.chunk.js.LICENSE.txt": "/travel-planet/static/js/2.86e62b69.chunk.js.LICENSE.txt",
     "static/media/colliseum.e601dbfc.jpg": "/travel-planet/static/media/colliseum.e601dbfc.jpg",
     "static/media/dominicanaBeach.bb632116.jpg": "/travel-planet/static/media/dominicanaBeach.bb632116.jpg",
     "static/media/dominicanaCard.2cb4c99a.jpg": "/travel-planet/static/media/dominicanaCard.2cb4c99a.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.925bde79.js",
-    "static/js/2.de8fb98d.chunk.js",
+    "static/js/2.86e62b69.chunk.js",
     "static/css/main.02aed492.chunk.css",
-    "static/js/main.3688d325.chunk.js"
+    "static/js/main.53f4180e.chunk.js"
   ]
 }
