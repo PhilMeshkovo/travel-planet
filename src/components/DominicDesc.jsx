@@ -1,4 +1,5 @@
 import FlamingoDomin from '../images/flamingoDomin.jpg'
+import Beach from '../images/dominicanaBeach.jpg'
 export function DominicDesc(props) {
     const {setDescription} = props
     return <div>
@@ -9,6 +10,7 @@ export function DominicDesc(props) {
            Остров входит в состав архипелага Больших Антильских островов. 
            Столица — Санто-Доминго. Официальный язык — испанский. Население государства — около 10,5 млн чел.
            (2020). Большую часть своей истории (до независимости) колония была известна как «Санто-Доминго»,
+           <img className='img-description' src={Beach} alt='Dominicana' width="330" height="220" align='right'/>
             в честь её святого заступника, Святого Доминика. Жителей назвали «Dominicanos» («Доминиканцы»), 
             адъективная форма «Доминго», и революционеры назвали свою независимую страну «Ла Република 
             Доминикана (La República Dominicana)».</p>
