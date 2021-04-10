@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/travel-planet/static/css/main.7de0bea5.chunk.css",
+    "main.css": "/travel-planet/static/css/main.6f4fc990.chunk.css",
     "main.js": "/travel-planet/static/js/main.6a4290c3.chunk.js",
     "main.js.map": "/travel-planet/static/js/main.6a4290c3.chunk.js.map",
     "runtime-main.js": "/travel-planet/static/js/runtime-main.925bde79.js",
@@ -8,7 +8,7 @@
     "static/js/2.975d8303.chunk.js": "/travel-planet/static/js/2.975d8303.chunk.js",
     "static/js/2.975d8303.chunk.js.map": "/travel-planet/static/js/2.975d8303.chunk.js.map",
     "index.html": "/travel-planet/index.html",
-    "static/css/main.7de0bea5.chunk.css.map": "/travel-planet/static/css/main.7de0bea5.chunk.css.map",
+    "static/css/main.6f4fc990.chunk.css.map": "/travel-planet/static/css/main.6f4fc990.chunk.css.map",
     "static/js/2.975d8303.chunk.js.LICENSE.txt": "/travel-planet/static/js/2.975d8303.chunk.js.LICENSE.txt",
     "static/media/colliseum.ce23bea5.jpg": "/travel-planet/static/media/colliseum.ce23bea5.jpg",
     "static/media/dominicanaCard.2cb4c99a.jpg": "/travel-planet/static/media/dominicanaCard.2cb4c99a.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.925bde79.js",
     "static/js/2.975d8303.chunk.js",
-    "static/css/main.7de0bea5.chunk.css",
+    "static/css/main.6f4fc990.chunk.css",
     "static/js/main.6a4290c3.chunk.js"
   ]
 }
