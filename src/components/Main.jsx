@@ -22,7 +22,7 @@ export function Main() {
         {description === 'italy' && <ItalyDesc setDescription={setDescription}/>}
         {description === 'thai' && <ThaiDesc setDescription={setDescription}/>}
         {description === 'domn' && <DominicDesc setDescription={setDescription}/>}
-        <a className='btn grey darken-2 phone' href={`tel:  +${NUMBER}`}>Позвонить<i className="material-icons right">phone</i></a>
+        <a className='grey darken-2 phone white-text' href={`tel:  +${NUMBER}`}><i className="medium material-icons">phone</i></a>
         
     </main>)
 }
