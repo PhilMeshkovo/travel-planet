@@ -13,6 +13,11 @@ export function ItalyDesc(props) {
 Занимает Апеннинский полуостров, крайний северо-запад Балканского полуострова, Паданскую равнину, южные склоны Альп, острова Сицилия, Сардиния и ряд мелких островов.
 
 На территории Италии находится 55 памятников Всемирного наследия ЮНЕСКО — Италия разделяет с Китаем первое место по их количеству.</p>
+<div className="row">
+                        <h5 style={{margin: '2rem 0 1.5rem'}}>Интересные факты</h5>
+                      <iframe title="Italy" src="https://www.youtube.com/embed/1rvSsnqZyyc" allowfullscreen/>
+                     
+            </div>
 <button className="btn grey darken-2 buttons-main" onClick={() => setDescription('main')}>На главную страницу<i className="material-icons right">last_page</i></button>
     </div>
     

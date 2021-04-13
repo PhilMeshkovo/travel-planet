@@ -88,3 +88,9 @@ p {
   right: 1rem;
 }
 
+iframe {
+  max-width: 100%;
+  width: 600px;
+  height: 350px;
+}
+
